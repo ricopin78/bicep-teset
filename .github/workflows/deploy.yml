@@ -11,7 +11,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_FUNCTIONAPP_NAME: "tak-testfunc3"
+  AZURE_FUNCTIONAPP_NAME: "test-kabu-enamin"
   GO_VERSION: "1.19"
   GO_ARCH: "amd64"
   GOOS: "linux" 
